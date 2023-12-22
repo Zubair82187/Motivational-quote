@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Motivational Quote</string>
+    <string name="share_button">share</string>
+    <string name="copy_button">copy</string>
+</resources>
